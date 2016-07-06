@@ -2,7 +2,7 @@
 
 Ce Travail à été realiser lors d'un projet à l'université du havre pour faire un simulateur SGBD sous Java. 
 
-Vous trouver accompagné du projet un rapport.  
+Vous trouver accompagné du projet un rapport(Rapport_Sidi_SGBDTR.pdf).  
 
 
 Technologie Utilisé : Java
