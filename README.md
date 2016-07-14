@@ -2,7 +2,7 @@
 
 Ce Travail à été realiser lors d'un projet à l'université du havre pour faire un simulateur SGBD temps réel sous Java. 
 
-Vous trouver accompagné du projet un rapport(Rapport_Sidi_SGBDTR.pdf).  
+Vous trouver accompagné du projet un rapport(Rapport_Sidi_SGBDTR.pdf) détaillant les différentes étape de création du simulateur.  
 
 
 Technologie Utilisé : Java
